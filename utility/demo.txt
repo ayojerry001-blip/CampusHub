@@ -9,4 +9,7 @@ Demo accounts:
 • external@gmail.com
 
 
+Passwords : password
+
+
 repository : https://github.com/ayojerry001-blip/CampusHub.git
