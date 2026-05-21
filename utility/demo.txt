@@ -1,0 +1,9 @@
+Demo accounts:
+
+• wizzy@university.edu || johnpaul@university.edu || breezy@university.edu -> (STUDENTS)
+
+• admin@university.edu
+
+• staff@university.edu
+
+• external@gmail.com
